@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    min-height: 10vh;
+    justify-content: center;
+    align-items:center;
+}
+input{
+    padding: .5rem 2rem;
+}
+button{
+    padding: .5rem 1rem;
+}
+.all-recipes-container{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.recipe{
+    width: 30%;
+}
+img{
+    width: 100%;
+}
